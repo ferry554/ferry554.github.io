@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shusen Chen's Homepage / Site Title"
+title                    : "Shusen Chen's Homepage"
 title_separator          : "-"
-name                     : &Shusen Chen "Your Name"
+name                     : &name "Shusen Chen"
 description              : &description "personal description"
 url                      : https://ferry554.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
